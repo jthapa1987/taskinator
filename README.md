@@ -24,9 +24,9 @@ A fast, intuitive task‑tracking app that organizes your workflow into clear, a
 ---
 
 ## 🛠️ Built With
-- **HTML:** `index_2.html`  
-- **CSS:** `style_2.css` (CSS Variables, Flexbox)  
-- **JavaScript:** `script_2.js` (DOM Logic, Web Storage API)
+- **HTML:** `index.html`  
+- **CSS:** `style.css` (CSS Variables, Flexbox)  
+- **JavaScript:** `script.js` (DOM Logic, Web Storage API)
 
 ---
 
